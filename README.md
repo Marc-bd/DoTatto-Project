@@ -1,1 +1,1 @@
-https://do-tattoo-ashen.vercel.app/
+https://do-tatto-project.vercel.app/
